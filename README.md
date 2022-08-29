@@ -1,6 +1,6 @@
 <image src="api.png" width="325px" align="right">
 
-  # 😉 Olá, Seja Bem Vindo!!!👍
+  ## Olá,
   Sou analista de qualidade e também desenvolvedor back end, adoro programar
   e tecnologia, sempre pronto pra aprender coisas novas.
 
