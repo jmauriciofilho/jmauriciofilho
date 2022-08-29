@@ -1,6 +1,6 @@
 <image src="api.png" width="325px" align="right">
 
-  # 😉 Seja Bem vindo(a) ao meu git hub, espero que goste!!!!👍
+  # 😉 Olá, Seja Bem Vindo!!!👍
   Sou analista de qualidade e também desenvolvedor back end, adoro programar
   e tecnologia, sempre pronto pra aprender coisas novas.
 
