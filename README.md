@@ -9,9 +9,6 @@
   <a href = "https://www.linkedin.com/in/mauriciopereira">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://twitter.com/Jmfcientista">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href = "https://bsky.app/profile/jmfcientista.bsky.social">
     <img src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white" alt="Twitter Badge"/>
   </a>
